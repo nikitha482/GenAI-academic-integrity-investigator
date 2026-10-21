@@ -1,0 +1,5 @@
+claim,evidence,label
+Water boils at 100 degrees Celsius at sea level.,"At standard atmospheric pressure (sea level), water boils at 100 degrees Celsius.",0
+The Earth orbits the Sun.,The Earth revolves around the Sun once every year.,0
+Vitamin C completely prevents the common cold.,"Regular vitamin C does not prevent colds in the general population, though it may slightly shorten them.",1
+The Great Wall of China is visible from the Moon with the naked eye.,Astronauts report that the Great Wall is not visible to the naked eye from the Moon.,2
